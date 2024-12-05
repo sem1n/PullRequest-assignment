@@ -4,5 +4,5 @@ import numpy as np
 
 # This is the main body of this program
 if __name__ == '__main__':
-    pn.is_prime_number(1
+    pn.is_prime_number(1)
     pn.is_prime_number(13)
